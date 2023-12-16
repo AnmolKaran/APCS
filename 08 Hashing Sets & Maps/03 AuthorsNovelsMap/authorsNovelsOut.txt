@@ -1,0 +1,4 @@
+DOSTOEVSKI: Crime and Punishment, The Possessed,
+FLAUBERT: Madame Bovary,
+TOLSTOY: Anna Karenina,
+
