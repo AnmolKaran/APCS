@@ -1,0 +1,300 @@
+minute 0: 
+          4-Se 
+          3- 
+          
+          
+          
+minute 1: 
+          4-Se 
+          3- 
+          4-Ju 
+          6-So 
+          
+minute 2: 
+          5-So 4-Se 
+          3- 
+          4-Ju 
+          6-So 
+          4-Se 
+minute 3: 
+          5-So 4-Se 
+          5-Ju 3- 
+          4-Ju 3- 
+          6-So 
+          4-Se 
+minute 4: 
+          5-So 4-Se 
+          5-Ju 3- 
+          4-Ju 3- 
+          6-So 6- 
+          4-Se 2- 
+minute 5: 
+          5-So 4-Se 6-Ju 
+          5-Ju 3- 4-Ju 
+          4-Ju 3- 
+          6-So 6- 
+          4-Se 2- 
+minute 6: 
+          5-So 4-Se 6-Ju 
+          5-Ju 3- 4-Ju 
+          4-So 3- 6-So 
+          6-So 6- 
+          4-Se 2- 
+minute 7: 
+          5-So 4-Se 6-Ju 
+          5-Ju 3- 4-Ju 
+          4-So 3- 6-So 
+          6-So 6- 4-Ju 
+          6-So 2- 
+minute 8: 
+          5-So 4-Se 6-Ju 
+          5-Ju 3- 4-Ju 
+          4-So 3- 6-So 
+          4-Ju 6- 2-Ju 
+          6-So 2- 2-So 
+minute 9: 
+          5-So 4-Se 6-Ju 5-Se 
+          5-Ju 5-Se 4-Ju 3- 
+          4-So 3- 6-So 
+          4-Ju 6- 2-Ju 
+          6-So 2- 2-So 
+minute 10: 
+          5-So 4-Se 6-Ju 5-Se 
+          5-Ju 5-Se 4-Ju 3- 
+          4-So 3-Ju 6-So 3- 
+          4-Ju 6-Ju 2-Ju 6- 
+          6-So 2- 2-So 
+minute 11: 
+          5-So 4-Se 6-Ju 5-Se 5- 
+          5-Ju 5-Se 4-Ju 3- 
+          4-So 3-Ju 6-So 3- 
+          4-Ju 6-Ju 2-Ju 6- 
+          6-So 6-Se 2-So 2- 
+minute 12: 
+          6-Ju 4-Se 5- 5-Se 2-Se 
+          4-Ju 2-Ju 3- 5-Se 
+          4-So 3-Ju 6-So 3- 
+          4-Ju 6-Ju 2-Ju 6- 
+          6-So 6-Se 2-So 2- 
+minute 13: 
+          6-Ju 4-Se 5- 5-Se 2-Se 
+          4-Ju 2-Ju 3- 5-Se 5-Ju 
+          4-So 3-Ju 6-So 3- 2- 
+          4-Ju 6-Ju 2-Ju 6- 
+          6-So 6-Se 2-So 2- 
+minute 14: 
+          6-Ju 4-Se 5- 5-Se 2-Se 
+          4-Ju 2-Ju 3- 5-Se 5-Ju 
+          6-So 3-Ju 2- 3- 4-Ju 
+          4-Ju 6-Ju 2-Ju 6- 2-Ju 
+          6-So 6-Se 2-So 2- 
+minute 15: 
+          3-So 4-Se 6-Ju 5-Se 2-Se 5- 
+          4-Ju 2-Ju 3- 5-Se 5-Ju 
+          6-So 3-Ju 2- 3- 4-Ju 
+          4-Ju 6-Ju 2-Ju 6- 2-Ju 
+          6-So 5-So 2-So 2- 6-Se 
+minute 16: 
+          3-So 4-Se 6-Ju 5-Se 2-Se 5- 
+          6-So 2-Ju 4-Ju 5-Se 5-Ju 3- 
+          6-So 3-Ju 2- 3- 4-Ju 
+          4-Ju 6-Ju 2-Ju 6- 2-Ju 
+          5-So 6-Se 2-So 2- 5-Se 
+minute 17: 
+          3-So 4-Se 6-Ju 5-Se 2-Se 5- 
+          6-So 2-Ju 4-Ju 5-Se 5-Ju 3- 
+          6-So 3-Ju 6-So 3- 4-Ju 2- 
+          4-Ju 6-Ju 2-Ju 6- 2-Ju 3-Se 
+          5-So 6-Se 2-So 2- 5-Se 
+minute 18: 
+          3-So 4-Se 2-So 5-Se 2-Se 5- 6-Ju 
+          6-So 2-Ju 4-Ju 5-Se 5-Ju 3- 
+          6-So 3-Ju 6-So 3- 4-Ju 2- 
+          4-Ju 6-Ju 2-Ju 6- 2-Ju 3-Se 
+          5-So 6-Se 2-So 2- 5-Se 3-So 
+minute 19: 
+          3-So 4-Se 2-So 5-Se 2-Se 5- 6-Ju 
+          6-So 2-Ju 4-Ju 5-Se 5-Ju 3- 5-Se 
+          6-So 3-Ju 6-So 3- 4-Ju 2- 6- 
+          4-Ju 6-Ju 2-Ju 6- 2-Ju 3-Se 
+          5-So 6-Se 2-So 2- 5-Se 3-So 
+minute 20: 
+          3-So 4-Se 2-So 5-Se 2-Se 5- 6-Ju 
+          6-So 2-Ju 4-Ju 5-Se 5-Ju 3- 5-Se 
+          6-So 3-Ju 5-So 3- 4-Ju 2- 6- 
+          6-So 6-Ju 4-Ju 6- 2-Ju 3-Se 2-Ju 
+          5-So 6-Se 2-So 2- 5-Se 3-So 
+minute 21: 
+          3-So 4-Ju 2-So 4-Se 2-Se 5- 6-Ju 5-Se 
+          6-So 2-Ju 4-Ju 5-Se 5-Ju 3- 5-Se 
+          6-So 3-Ju 5-So 3- 4-Ju 2- 6- 
+          6-So 6-Ju 4-Ju 6- 2-Ju 3-Se 2-Ju 
+          5-So 6-Se 2-So 2- 5-Se 3-So 2- 
+minute 22: 
+          3-So 4-Ju 2-So 4-Se 2-Se 5- 6-Ju 5-Se 
+          6-So 2-Ju 4-Ju 5-Se 5-Ju 3- 5-Se 3-Se 
+          6-So 3-Ju 5-So 3- 4-Ju 2- 6- 2- 
+          6-So 6-Ju 4-Ju 6- 2-Ju 3-Se 2-Ju 
+          5-So 6-Se 2-So 2- 5-Se 3-So 2- 
+minute 23: 
+          3-So 4-Ju 2-So 4-Se 2-Se 5- 6-Ju 5-Se 
+          6-So 2-Ju 4-Ju 5-Se 5-Ju 3- 5-Se 3-Se 
+          6-So 3-Ju 5-So 3- 4-Ju 2- 6- 2- 
+          6-So 6-So 4-Ju 6-Ju 2-Ju 3-Se 2-Ju 6- 
+          5-So 6-Se 2-So 2- 5-Se 3-So 2- 6- 
+minute 24: 
+          3-So 4-Ju 2-So 4-Se 2-Se 5- 6-Ju 5-Se 2- 
+          6-So 2-Ju 4-Ju 6-Ju 5-Ju 3- 5-Se 3-Se 5-Se 
+          6-So 3-Ju 5-So 3- 4-Ju 2- 6- 2- 
+          6-So 6-So 4-Ju 6-Ju 2-Ju 3-Se 2-Ju 6- 
+          5-So 6-Se 2-So 2- 5-Se 3-So 2- 6- 
+minute 25: 
+          3-So 4-Ju 2-So 4-Se 2-Se 5- 6-Ju 5-Se 2- 
+          6-So 2-Ju 4-Ju 6-Ju 5-Ju 3- 5-Se 3-Se 5-Se 
+          6-So 2-So 5-So 3-Ju 4-Ju 2- 6- 2- 3- 
+          6-So 6-So 4-Ju 6-Ju 2-Ju 3-Se 2-Ju 6- 6-Ju 
+          5-So 6-Se 2-So 2- 5-Se 3-So 2- 6- 
+minute 26: 
+          3-So 4-Ju 2-So 4-Se 2-Se 5- 6-Ju 5-Se 2- 5-Se 
+          6-So 2-Ju 4-Ju 6-Ju 5-Ju 3- 5-Se 3-Se 5-Se 
+          6-So 2-So 5-So 3-Ju 4-Ju 2- 6- 2- 3- 
+          6-So 6-So 4-Ju 6-Ju 2-Ju 3-Se 2-Ju 6- 6-Ju 
+          5-So 2-So 2-So 6-Se 5-Se 3-So 2- 6- 2- 
+minute 27: 
+          3-So 4-Ju 2-So 4-Se 2-Se 5- 6-Ju 5-Se 2- 5-Se 
+          6-So 5-So 4-Ju 6-Ju 2-Ju 3- 5-Se 3-Se 5-Se 5-Ju 
+          6-So 2-So 5-So 3-Ju 4-Ju 2- 6- 2- 3- 3- 
+          6-So 6-So 4-Ju 6-Ju 2-Ju 3-Se 2-Ju 6- 6-Ju 
+          5-So 2-So 2-So 6-Se 5-Se 3-So 2- 6- 2- 
+minute 28: 
+          3-So 4-Ju 2-So 4-Se 2-Se 5- 6-Ju 5-Se 2- 5-Se 
+          6-So 5-So 4-Ju 6-Ju 2-Ju 3- 5-Se 3-Se 5-Se 5-Ju 
+          6-So 2-So 5-So 3-Ju 4-Ju 2- 6- 2- 3- 3- 
+          6-So 6-So 4-Ju 6-Ju 2-Ju 3-Se 2-Ju 6- 6-Ju 6-Se 
+          5-So 2-So 2-So 6-Se 4-So 3-So 2- 6- 2- 5-Se 
+minute 29: 
+          3-So 4-Ju 2-So 4-Se 5-Ju 5- 6-Ju 5-Se 2- 5-Se 2-Se 
+          6-So 5-So 4-Ju 6-Ju 2-Ju 3- 5-Se 3-Se 5-Se 5-Ju 2-Ju 
+          6-So 2-So 5-So 3-Ju 4-Ju 2- 6- 2- 3- 3- 
+          6-So 6-So 4-Ju 6-Ju 2-Ju 3-Se 2-Ju 6- 6-Ju 6-Se 
+          5-So 2-So 2-So 6-Se 4-So 3-So 2- 6- 2- 5-Se 
+minute 30: 
+          3-So 4-Ju 2-So 4-Se 5-Ju 5- 6-Ju 5-Se 2- 5-Se 2-Se 
+          6-So 5-So 4-Ju 6-Ju 2-Ju 3- 5-Se 3-Se 5-Se 5-Ju 2-Ju 
+          6-So 2-So 5-So 3-Ju 4-Ju 2- 6- 2- 3- 3- 2-Ju 
+          6-So 6-So 4-Ju 6-Ju 2-Ju 3-Se 2-Ju 6- 6-Ju 6-Se 5-Ju 
+          5-So 2-So 2-So 6-Se 4-So 3-So 2- 6- 2- 5-Se 
+minute 31: 
+          3-So 4-Ju 2-So 4-Se 5-Ju 5- 6-Ju 5-Se 2- 5-Se 2-Se 5- 
+          6-So 5-So 4-Ju 6-Ju 2-Ju 3- 5-Se 3-Se 5-Se 5-Ju 2-Ju 
+          6-So 2-So 5-So 3-Ju 4-Ju 2- 6- 2- 3- 3- 2-Ju 
+          6-So 6-So 4-Ju 6-Ju 2-Ju 3-Se 2-Ju 6- 6-Ju 6-Se 5-Ju 
+          5-So 2-So 2-So 6-Se 4-So 3-So 2- 6- 2- 5-Se 6-Ju 
+minute 32: 
+          3-So 4-Ju 2-So 4-Se 5-Ju 5- 6-Ju 5-Se 2- 5-Se 2-Se 5- 
+          6-So 5-So 4-Ju 6-Ju 2-Ju 3-Ju 5-Se 3-Se 5-Se 5-Ju 2-Ju 3- 
+          6-So 2-So 5-So 3-Ju 4-Ju 2-Ju 6- 2- 3- 3- 2-Ju 2- 
+          6-So 6-So 4-Ju 6-Ju 2-Ju 3-Se 2-Ju 6- 6-Ju 6-Se 5-Ju 
+          5-So 2-So 2-So 6-Se 4-So 3-So 2- 6- 2- 5-Se 6-Ju 
+minute 33: 
+          3-So 4-Ju 2-So 4-Se 5-Ju 5- 6-Ju 5-Se 2- 5-Se 2-Se 5- 
+          6-So 5-So 4-Ju 6-Ju 2-Ju 3-Ju 5-Se 3-Se 5-Se 5-Ju 2-Ju 3- 
+          6-So 2-So 5-So 3-Ju 4-Ju 2-Ju 6- 2- 3- 3- 2-Ju 2- 
+          6-So 6-So 6-So 6-Ju 2-Ju 4-Ju 2-Ju 6- 6-Ju 6-Se 5-Ju 3-Se 
+          5-So 2-So 2-So 6-Se 4-So 3-So 2- 6- 2- 5-Se 6-Ju 3-Ju 
+minute 34: 
+          3-So 4-Ju 2-So 4-Se 5-Ju 2-So 6-Ju 5-Se 2- 5-Se 2-Se 5- 5- 
+          6-So 5-So 4-Ju 6-Ju 2-Ju 3-Ju 5-Se 3-Se 5-Se 5-Ju 2-Ju 3- 2-Se 
+          6-So 2-So 5-So 3-Ju 4-Ju 2-Ju 6- 2- 3- 3- 2-Ju 2- 
+          6-So 6-So 6-So 6-Ju 2-Ju 4-Ju 2-Ju 6- 6-Ju 6-Se 5-Ju 3-Se 
+          5-So 2-So 2-So 6-Se 4-So 3-So 2- 6- 2- 5-Se 6-Ju 3-Ju 
+minute 35: 
+          3-So 4-Ju 2-So 4-Se 5-Ju 2-So 6-Ju 5-Se 2- 5-Se 2-Se 5- 5- 
+          6-So 5-So 4-Ju 6-Ju 2-Ju 3-Ju 5-Se 3-Se 5-Se 5-Ju 2-Ju 3- 2-Se 
+          6-So 2-So 5-So 3-Ju 4-Ju 2-Ju 6- 2- 3- 3- 2-Ju 2- 3-Se 
+          6-So 6-So 6-So 6-Ju 2-Ju 4-Ju 2-Ju 6- 6-Ju 6-Se 5-Ju 3-Se 5-Ju 
+          5-So 2-So 2-So 6-Se 4-So 3-So 2- 6- 2- 5-Se 6-Ju 3-Ju 
+minute 36: 
+          3-So 4-Ju 2-So 4-Se 5-Ju 2-So 2-So 5-Se 2- 5-Se 2-Se 5- 5- 6-Ju 
+          6-So 5-So 4-Ju 6-Ju 2-Ju 3-Ju 5-Se 3-Se 5-Se 5-Ju 2-Ju 3- 2-Se 
+          6-So 2-So 5-So 3-Ju 4-Ju 2-Ju 6- 2- 3- 3- 2-Ju 2- 3-Se 
+          6-So 6-So 6-So 6-Ju 2-Ju 4-Ju 2-Ju 6- 6-Ju 6-Se 5-Ju 3-Se 5-Ju 
+          5-So 2-So 2-So 6-Se 4-So 3-So 2- 6- 2- 5-Se 6-Ju 3-Ju 4-Ju 
+minute 37: 
+          3-So 4-Ju 2-So 4-Se 5-Ju 2-So 2-So 5-Se 2- 5-Se 2-Se 5- 5- 6-Ju 
+          6-So 5-So 4-Ju 6-Ju 2-Ju 3-Ju 2-Ju 3-Se 5-Se 5-Ju 2-Ju 3- 2-Se 5-Se 
+          6-So 2-So 5-So 3-Ju 4-Ju 2-Ju 6- 2- 3- 3- 2-Ju 2- 3-Se 
+          6-So 6-So 6-So 6-Ju 2-Ju 4-Ju 2-Ju 6- 6-Ju 6-Se 5-Ju 3-Se 5-Ju 
+          2-So 4-So 2-So 6-Se 4-Ju 3-So 2- 6- 2- 5-Se 6-Ju 3-Ju 2-So 
+minute 38: 
+          3-So 4-Ju 2-So 4-Se 5-Ju 2-So 2-So 5-Se 2- 5-Se 2-Se 5- 5- 6-Ju 
+          6-So 5-So 4-Ju 6-Ju 2-Ju 3-Ju 2-Ju 3-Se 5-Se 5-Ju 2-Ju 3- 2-Se 5-Se 
+          6-So 2-So 5-So 3-Ju 4-Ju 2-Ju 6- 2- 3- 3- 2-Ju 2- 3-Se 6- 
+          6-So 6-So 6-So 6-Ju 2-Ju 4-Ju 3-So 6- 6-Ju 6-Se 5-Ju 3-Se 5-Ju 2-Ju 
+          2-So 4-So 2-So 6-Se 4-Ju 3-So 2- 6- 2- 5-Se 6-Ju 3-Ju 2-So 
+minute 39: 
+          3-So 4-Ju 2-So 4-Se 5-Ju 2-So 2-So 5-Se 2- 5-Se 2-Se 5- 5- 6-Ju 6-Ju 
+          6-So 5-So 4-Ju 6-Ju 2-Ju 3-Ju 2-Ju 3-Se 5-Se 5-Ju 2-Ju 3- 2-Se 5-Se 
+          6-So 2-So 5-So 3-Ju 4-Ju 2-Ju 6- 2- 3- 3- 2-Ju 2- 3-Se 6- 
+          6-So 6-So 6-So 6-Ju 2-Ju 4-Ju 3-So 6- 6-Ju 6-Se 5-Ju 3-Se 5-Ju 2-Ju 
+          2-So 4-So 2-So 6-Se 4-Ju 3-So 2-Se 6- 2- 5-Se 6-Ju 3-Ju 2-So 2- 
+minute 40: 
+          3-So 4-Ju 2-So 4-Se 5-Ju 2-So 2-So 5-Se 2- 5-Se 2-Se 5- 5- 6-Ju 6-Ju 
+          6-So 5-So 6-So 6-Ju 2-Ju 3-Ju 4-Ju 3-Se 5-Se 5-Ju 2-Ju 3- 2-Se 5-Se 2-Ju 
+          6-So 2-So 5-So 3-Ju 4-Ju 2-Ju 5-Se 2- 3- 3- 2-Ju 2- 3-Se 6- 6- 
+          6-So 6-So 6-So 6-Ju 2-Ju 4-Ju 3-So 6- 6-Ju 6-Se 5-Ju 3-Se 5-Ju 2-Ju 
+          2-So 4-So 2-So 6-Se 4-Ju 3-So 2-Se 6- 2- 5-Se 6-Ju 3-Ju 2-So 2- 
+minute 41: 
+          2-So 4-Ju 2-So 4-Se 5-Ju 6-Ju 2-So 5-Se 2- 5-Se 2-Se 5- 5- 6-Ju 3-So 
+          6-So 5-So 6-So 6-Ju 2-Ju 3-Ju 4-Ju 3-Se 5-Se 5-Ju 2-Ju 3- 2-Se 5-Se 2-Ju 
+          6-So 2-So 5-So 3-Ju 4-Ju 2-Ju 5-Se 2- 3- 3- 2-Ju 2- 3-Se 6- 6- 
+          6-So 6-So 6-So 6-Ju 2-Ju 4-Ju 3-So 6- 6-Ju 6-Se 5-Ju 3-Se 5-Ju 2-Ju 2- 
+          2-So 4-So 2-So 6-Se 4-Ju 3-So 2-Se 6- 2- 5-Se 6-Ju 3-Ju 2-So 2- 
+minute 42: 
+          2-So 4-Ju 2-So 4-Se 5-Ju 6-Ju 2-So 5-Se 2- 5-Se 2-Se 5- 5- 6-Ju 3-So 
+          5-So 2-Ju 6-So 6-Ju 2-Ju 3-Ju 4-Ju 3-Se 5-Se 5-Ju 2-Ju 3- 2-Se 5-Se 4- 
+          2-So 3-Ju 5-So 6- 4-Ju 2-Ju 5-Se 2- 3- 3- 2-Ju 2- 3-Se 6- 6- 
+          6-So 6-So 6-So 6-Ju 2-Ju 4-Ju 3-So 6- 6-Ju 6-Se 5-Ju 3-Se 5-Ju 2-Ju 2- 
+          2-So 4-So 2-So 6-Se 4-Ju 3-So 2-Se 6- 2- 5-Se 6-Ju 3-Ju 2-So 2- 
+minute 43: 
+          2-So 4-Ju 2-So 4-Se 5-Ju 6-Ju 2-So 5-Se 2- 5-Se 2-Se 5- 5- 6-Ju 3-So 6- 
+          5-So 2-Ju 6-So 6-Ju 2-Ju 3-Ju 4-Ju 3-Se 5-Se 5-Ju 2-Ju 3- 2-Se 5-Se 4- 
+          2-So 3-Ju 5-So 6- 4-Ju 2-Ju 5-Se 2- 3- 3- 2-Ju 2- 3-Se 6- 6- 
+          6-So 6-So 6-So 6-Ju 2-Ju 4-Ju 3-So 6- 6-Ju 6-Se 5-Ju 3-Se 5-Ju 2-Ju 2- 
+          2-So 4-So 2-So 6-Se 4-Ju 3-So 5-Ju 6- 2- 5-Se 6-Ju 3-Ju 2-So 2- 2-Se 
+minute 44: 
+          2-So 4-Ju 2-So 4-Se 5-Ju 6-Ju 2-So 5-Se 2- 5-Se 2-Se 5- 5- 6-Ju 3-So 6- 
+          5-So 6-So 6-So 2-Ju 2-Ju 3-Ju 4-Ju 6-Ju 5-Se 5-Ju 2-Ju 3- 2-Se 5-Se 4- 3-Se 
+          2-So 6-So 5-So 3-Ju 4-Ju 2-Ju 5-Se 6- 3- 3- 2-Ju 2- 3-Se 6- 6- 2- 
+          6-So 6-So 6-So 6-Ju 2-Ju 4-Ju 3-So 6- 6-Ju 6-Se 5-Ju 3-Se 5-Ju 2-Ju 2- 
+          2-So 4-So 2-So 6-Se 4-Ju 3-So 5-Ju 6- 2- 5-Se 6-Ju 3-Ju 2-So 2- 2-Se 
+minute 45: 
+          2-So 4-Ju 2-So 4-Se 5-Ju 6-Ju 2-So 5-Se 2- 5-Se 2-Se 5- 5- 6-Ju 3-So 6- 
+          5-So 6-So 6-So 2-Ju 2-Ju 3-Ju 4-Ju 6-Ju 5-Se 5-Ju 2-Ju 3- 2-Se 5-Se 4- 3-Se 
+          2-So 6-So 5-So 3-Ju 4-Ju 2-Ju 5-Se 6- 3- 3- 2-Ju 2- 3-Se 6- 6- 2- 
+          6-So 6-So 6-So 6-Ju 2-Ju 4-Ju 3-So 3-Se 6-Ju 6-Se 5-Ju 3-Se 5-Ju 2-Ju 2- 6- 
+          2-So 4-So 2-So 6-Se 4-Ju 3-So 5-Ju 3-Se 2- 5-Se 6-Ju 3-Ju 2-So 2- 2-Se 6- 
+minute 46: 
+          2-So 4-Ju 2-So 4-Ju 5-Ju 6-Ju 3-So 4-Se 2- 5-Se 2-Se 5- 5- 6-Ju 6- 5- 5-Se 
+          5-So 6-So 6-So 2-Ju 2-Ju 3-Ju 4-Ju 6-Ju 5-Se 5-Ju 2-Ju 3- 2-Se 5-Se 4- 3-Se 
+          2-So 6-So 5-So 3-Ju 4-Ju 2-Ju 5-Se 6- 3- 3- 2-Ju 2- 3-Se 6- 6- 2- 
+          6-So 6-So 6-So 6-Ju 2-Ju 4-Ju 3-So 3-Se 6-Ju 6-Se 5-Ju 3-Se 5-Ju 2-Ju 2- 6- 
+          2-So 4-So 2-So 6-Se 4-Ju 3-So 5-Ju 3-Se 2- 5-Se 6-Ju 3-Ju 2-So 2- 2-Se 6- 
+minute 47: 
+          2-So 4-Ju 2-So 4-Ju 5-Ju 6-Ju 3-So 4-Se 2- 5-Se 2-Se 5- 5- 6-Ju 6- 5- 5-Se 
+          5-So 6-So 6-So 5-So 2-Ju 3-Ju 4-Ju 2-Ju 5-Se 5-Ju 2-Ju 3- 2-Se 5-Se 4- 3-Se 6-Ju 
+          2-So 6-So 5-So 3-Ju 4-Ju 2-Ju 5-Se 4-Se 3- 3- 2-Ju 2- 3-Se 6- 6- 2- 6- 
+          6-So 6-So 6-So 6-Ju 2-Ju 4-Ju 3-So 3-Se 6-Ju 6-Se 5-Ju 3-Se 5-Ju 2-Ju 2- 6- 
+          2-So 4-So 2-So 6-Se 4-Ju 3-So 5-Ju 3-Se 2- 5-Se 6-Ju 3-Ju 2-So 2- 2-Se 6- 
+minute 48: 
+          2-So 4-Ju 2-So 4-Ju 5-Ju 6-Ju 3-So 4-Se 2- 5-Se 2-Se 5- 5- 6-Ju 6- 5- 5-Se 
+          5-So 6-So 6-So 5-So 2-Ju 3-Ju 4-Ju 2-Ju 5-Se 5-Ju 2-Ju 3- 2-Se 5-Se 4- 3-Se 6-Ju 
+          2-So 6-So 5-So 3-Ju 4-Ju 2-Ju 5-Se 4-Se 3- 3- 2-Ju 2- 3-Se 6- 6- 2- 6- 
+          6-So 6-So 6-So 6-Ju 2-Ju 4-Ju 3-So 5-Ju 6-Ju 6-Se 5-Ju 3-Se 5-Ju 2-Ju 2- 6- 3-Se 
+          2-So 4-So 2-So 6-Se 4-Ju 3-So 5-Ju 3-Se 2- 5-Se 6-Ju 3-Ju 2-So 2- 2-Se 6- 3- 
+minute 49: 
+          2-So 4-Ju 2-So 4-Ju 5-Ju 6-Ju 3-So 4-Se 4-Se 5-Se 2-Se 5- 5- 6-Ju 6- 5- 5-Se 2- 
+          5-So 6-So 6-So 5-So 2-Ju 3-Ju 4-Ju 2-Ju 5-Se 5-Ju 2-Ju 3- 2-Se 5-Se 4- 3-Se 6-Ju 3-Se 
+          2-So 6-So 5-So 3-Ju 4-Ju 2-Ju 5-Se 4-Se 3- 3- 2-Ju 2- 3-Se 6- 6- 2- 6- 
+          6-So 6-So 6-So 6-Ju 2-Ju 4-Ju 3-So 5-Ju 6-Ju 6-Se 5-Ju 3-Se 5-Ju 2-Ju 2- 6- 3-Se 
+          2-So 4-So 2-So 6-Se 4-Ju 3-So 5-Ju 3-Se 2- 5-Se 6-Ju 3-Ju 2-So 2- 2-Se 6- 3- 
